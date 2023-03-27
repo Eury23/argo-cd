@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: http://hudkregister.humano.local/eortega/argocd-poc.git --Username eortega --Password zWzAPxK8hZaaZF8CPREp
+    repoURL: https://github.com/Eury23/argo-cd.git
     targetRevision: HEAD
     path: dev
   destination:
