@@ -5,7 +5,7 @@ metadata:
 spec: 
   selector:
     app: myapp
-  replicas: 3  
+  replicas: 4  
   ports:
   - port: 8080
     protocol: TCP
